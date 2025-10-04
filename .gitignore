@@ -1,0 +1,14 @@
+# Archivo de configuración con secretos
+config.ini
+
+# Carpetas de caché y compilados de Python
+__pycache__/
+*.pyc
+
+# Carpetas de entorno virtual (si alguna vez usas uno)
+venv/
+.venv/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

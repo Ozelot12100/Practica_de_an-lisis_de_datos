@@ -1,0 +1,6 @@
+# Este archivo configura el comportamiento por defecto de la aplicación Streamlit.
+
+[theme]
+# Establece el tema base que verán los usuarios al abrir la aplicación.
+# Las opciones son "light" o "dark".
+base = "dark"
